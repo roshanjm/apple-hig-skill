@@ -1,0 +1,11 @@
+{
+  "name": "apple-hig",
+  "version": "1.0.0",
+  "description": "Apple's complete Human Interface Guidelines (173 pages, Liquid Glass era, crawled 2026-10-14) plus the whole developer.apple.com/design site, as a skill with exact specs, per-section digests and a HIG review template.",
+  "author": { "name": "Roshan Jamal", "email": "roshan@hireacar.pk" },
+  "homepage": "https://github.com/roshanjm/apple-hig-skill",
+  "repository": "https://github.com/roshanjm/apple-hig-skill",
+  "license": "MIT",
+  "keywords": ["apple", "hig", "human-interface-guidelines", "liquid-glass", "ios", "ipados", "macos", "visionos", "watchos", "tvos", "swiftui", "design", "ux", "skill"],
+  "skills": ["./"]
+}

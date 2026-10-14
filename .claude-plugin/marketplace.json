@@ -1,0 +1,16 @@
+{
+  "name": "apple-hig-skill",
+  "description": "Apple Human Interface Guidelines as a Claude skill.",
+  "owner": { "name": "Roshan Jamal", "email": "roshan@hireacar.pk" },
+  "metadata": { "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "apple-hig",
+      "source": ".",
+      "description": "Apple's complete Human Interface Guidelines (173 pages, Liquid Glass era, crawled 2026-10-14) plus the whole developer.apple.com/design site, as a skill with exact specs, per-section digests and a HIG review template.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["apple", "hig", "liquid-glass", "ios", "macos", "visionos", "watchos", "design"]
+    }
+  ]
+}
